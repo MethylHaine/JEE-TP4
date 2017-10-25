@@ -1,0 +1,7 @@
+.metadata
+RemoteSystemsTempFiles/
+SpringMVC/
+bin
+.idea
+.recommenders
+*.iml
